@@ -1,0 +1,7 @@
+faiss-cpu
+google-search-results
+gradio
+langchain
+langchain_experimental
+openai
+tiktoken
